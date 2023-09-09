@@ -9,11 +9,7 @@
 ## Table of Contents
 
 - [About the Project](#about-the-project)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
-- [Model Training](#model-training)
+- [Prerequisites](#prerequisites)
 - [Dataset](#dataset)
 - [Contributing](#contributing)
 - [License](#license)
@@ -28,7 +24,6 @@ Key features:
 - Pretrained models for easy deployment.
 - User-friendly web or mobile application (if applicable).
 
-## Getting Started
 
 ### Prerequisites
 
@@ -42,8 +37,3 @@ Before you begin, ensure you have met the following requirements:
 ## Dataset
 Dataset Link - https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
-### Installation
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/your-username/plant-disease-detection.git
