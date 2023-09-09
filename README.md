@@ -37,3 +37,15 @@ Before you begin, ensure you have met the following requirements:
 ## Dataset
 Dataset Link - https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to this project, please follow these guidelines:
+- Fork the project.
+- Create your feature branch (`git checkout -b feature/your-feature`).
+- Commit your changes (`git commit -m 'Add some feature'`).
+- Push to the branch (`git push origin feature/your-feature`).
+- Open a pull request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
