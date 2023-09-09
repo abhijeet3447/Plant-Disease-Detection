@@ -39,6 +39,9 @@ Before you begin, ensure you have met the following requirements:
 - OpenCV
 - Other dependencies (mention if any)
 
+## Dataset
+Dataset Link - https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+
 ### Installation
 
 1. Clone the repository:
