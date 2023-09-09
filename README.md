@@ -4,7 +4,7 @@
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub Stars](https://img.shields.io/github/stars/abhijeet3447/plant-disease-detection.svg)](https://github.com/abhijeet3447/plant-disease-detection/stargazers)
-[![GitHub Issues](https://img.shields.io/github/issues/your-username/plant-disease-detection.svg)](https://github.com/your-username/plant-disease-detection/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/abhijeet3447/plant-disease-detection.svg)](https://github.com/abhijeet3447/plant-disease-detection/issues)
 
 ## Table of Contents
 
