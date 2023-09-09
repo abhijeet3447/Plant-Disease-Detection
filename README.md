@@ -1,9 +1,9 @@
 # Plant Disease Detection using Deep Learning
 
-![Project Image](image_path.jpg)  <!-- Include an image or logo of your project, if available -->
+
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/plant-disease-detection.svg)](https://github.com/your-username/plant-disease-detection/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/abhijeet3447/plant-disease-detection.svg)](https://github.com/abhijeet3447/plant-disease-detection/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/your-username/plant-disease-detection.svg)](https://github.com/your-username/plant-disease-detection/issues)
 
 ## Table of Contents
